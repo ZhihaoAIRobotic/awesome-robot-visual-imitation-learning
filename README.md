@@ -7,13 +7,21 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 ## Papers
 
+### Visual Representation Learning
+
+[R3M: A Universal Visual Representation for Robot Manipulation ](https://arxiv.org/pdf/2203.12601.pdf) arXiv,2022 | [code](https://github.com/facebookresearch/r3m)
+
+
+
+
+
+
+
 
 
 ## Talks
 
 
-
-## Codes
 
 
 
