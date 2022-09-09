@@ -17,11 +17,15 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Adversarial Skill Networks: Unsupervised Robot Skill Learning from Videos](https://arxiv.org/pdf/1910.09430.pdf) ICRA 2020 | [website](http://robotskills.cs.uni-freiburg.de/#code)
 
-### Estimated Pose
+### Estimated Pose/Keypoint
 
 [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://proceedings.mlr.press/v164/mandikal22a/mandikal22a.pdf) CORL 2021
 
 [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/pdf/2108.05877.pdf) arxiv2022 | [website](https://yzqin.github.io/dexmv/) | [code](https://github.com/yzqin/dexmv-sim)
+
+[Learning Agile Robotic Locomotion Skills by Imitating Animals](https://xbpeng.github.io/projects/Robotic_Imitation/2020_Robotic_Imitation.pdf) RSS 2020 | [website](https://xbpeng.github.io/projects/Robotic_Imitation/) | [code](https://github.com/erwincoumans/motion_imitation)
+
+[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) ACM Transactions on Graphics 2018 | [code][https://github.com/akanazawa/motion_reconstruction]
 
 
 
