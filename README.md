@@ -17,7 +17,7 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/pdf/2206.11795.pdf) arXiv 2022
 
-### Estimated Pose/Key point
+### Estimated Pose/Key Point
 
 [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://proceedings.mlr.press/v164/mandikal22a/mandikal22a.pdf) CORL 2021
 
