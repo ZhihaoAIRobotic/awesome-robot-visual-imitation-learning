@@ -25,7 +25,7 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://xbpeng.github.io/projects/Robotic_Imitation/2020_Robotic_Imitation.pdf) RSS 2020 | [website](https://xbpeng.github.io/projects/Robotic_Imitation/) | [code](https://github.com/erwincoumans/motion_imitation)
 
-[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) ACM Transactions on Graphics 2018 | [code][https://github.com/akanazawa/motion_reconstruction]
+[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) ACM Transactions on Graphics 2018 | [code](https://github.com/akanazawa/motion_reconstruction)
 
 [Graph-Structured Visual Imitation](http://proceedings.mlr.press/v100/sieb20a/sieb20a.pdf) CoRL 2019 
 
