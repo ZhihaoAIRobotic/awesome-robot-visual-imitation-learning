@@ -45,7 +45,6 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Visual Imitation Learning: Generalization, Perceptual Grounding, and Abstraction](https://www.youtube.com/watch?v=1TJHuO5TAfo) RSS Workshop 2020 
 
+[Imitation Learning Tutorial ICML 2018](https://www.youtube.com/watch?v=WjFdD7PDGw0)
 
-
-
-
+[Model-Based Visual Imitation Learning](https://www.youtube.com/watch?v=aiJp9GWdJnw) CVPR 2021 - Franziska Meier
