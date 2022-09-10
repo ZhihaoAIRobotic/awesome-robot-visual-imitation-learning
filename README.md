@@ -1,10 +1,6 @@
 # awesome-robot-learning-from-video[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of papers, codes and resources of learning from video in robotics.
 
-## Table of contents
-
-
-
 ## Papers
 
 ### Survey
@@ -35,13 +31,9 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning to Manipulate Tools by Aligning Simulation to Video Demonstration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612073&casa_token=20714ek6aaQAAAAA:F05cTWri23dQ1ijDqgFU-QOey6ZeDROrFNDtYsRudUE9JoXUPEb5_ljXlv7_7uXGAfM3zeb7lQ) RAL 2022
 
-
-
 ### Sub-goal Generator/Intention Understanding
 
 [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper/2019/file/8a146f1a3da4700cbf03cdc55e2daae6-Paper.pdf) NeurIPS 2019| [website](https://pathak22.github.io/hierarchical-imitation/) | [code](https://github.com/pathak22/hierarchical-imitation/)
-
-
 
 ### End to End
 
@@ -49,15 +41,11 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf) arxiv 2018 
 
-
-
 ## Talks
 
+[Visual Imitation Learning: Generalization, Perceptual Grounding, and Abstraction](https://www.youtube.com/watch?v=1TJHuO5TAfo) RSS Workshop 2020 
 
 
-
-
-## Blogs
 
 
 
