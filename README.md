@@ -3,9 +3,13 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 ## Papers
 
-### Survey
+### Survey/Datasets
 
 [Recent Advances in Imitation Learning from Observation](https://arxiv.org/pdf/1905.13566.pdf) IJCAI 2019
+
+[Recent advances in robot learning from demonstration](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-100819-063206?casa_token=aHxQSEEqTm8AAAAA:_xq0aRAFtAsb2CiASkQOOK4uouEUqvK8-4vgwEF1EkOnnG2gi21d3HW1Rqo61UYqKbuv6aCHrzJjLlWf) Annual Review of Control, Robotics, and Autonomous Systems 2020
+
+[What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://arxiv.org/pdf/2108.03298.pdf) arxiv2021 | [website](https://robomimic.github.io/) |[code](https://github.com/ARISE-Initiative/robomimic)
 
 ### Visual Representation Learning
 
