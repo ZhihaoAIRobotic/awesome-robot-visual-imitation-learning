@@ -11,6 +11,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://arxiv.org/pdf/2108.03298.pdf) arxiv2021 | [website](https://robomimic.github.io/) |[code](https://github.com/ARISE-Initiative/robomimic)
 
+[RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/pdf?id=SYUEnQtK85o)  RSS2022 | [video](https://www.youtube.com/watch?v=oTnsZs7yOVc) 
+
 ### Visual Representation Learning
 
 [R3M: A Universal Visual Representation for Robot Manipulation ](https://arxiv.org/pdf/2203.12601.pdf) arXiv 2022 | [code](https://github.com/facebookresearch/r3m)
@@ -35,7 +37,7 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning to Manipulate Tools by Aligning Simulation to Video Demonstration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612073&casa_token=20714ek6aaQAAAAA:F05cTWri23dQ1ijDqgFU-QOey6ZeDROrFNDtYsRudUE9JoXUPEb5_ljXlv7_7uXGAfM3zeb7lQ) RAL 2022
 
-[Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) arxiv 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
+[Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) RSS 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
 
 ### Sub-goal Generator/Intention Understanding
 
