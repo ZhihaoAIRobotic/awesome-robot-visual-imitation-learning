@@ -35,6 +35,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning to Manipulate Tools by Aligning Simulation to Video Demonstration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612073&casa_token=20714ek6aaQAAAAA:F05cTWri23dQ1ijDqgFU-QOey6ZeDROrFNDtYsRudUE9JoXUPEb5_ljXlv7_7uXGAfM3zeb7lQ) RAL 2022
 
+[Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) arxiv 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
+
 ### Sub-goal Generator/Intention Understanding
 
 [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper/2019/file/8a146f1a3da4700cbf03cdc55e2daae6-Paper.pdf) NeurIPS 2019| [website](https://pathak22.github.io/hierarchical-imitation/) | [code](https://github.com/pathak22/hierarchical-imitation/)
