@@ -41,11 +41,11 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) RSS 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
 
-[Learning Periodic Tasks from Human Demonstrations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812402&casa_token=jd7QDSj6HtoAAAAA:VdNXiKamIsexSD_mmUDusYF14rvfrfgmhDP8sHSZO7Wom_GJykTvaOFhz0Xk39oVBLYhkw977w&tag=1)
+[Learning Periodic Tasks from Human Demonstrations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812402&casa_token=jd7QDSj6HtoAAAAA:VdNXiKamIsexSD_mmUDusYF14rvfrfgmhDP8sHSZO7Wom_GJykTvaOFhz0Xk39oVBLYhkw977w&tag=1) arxiv2021
 
-[Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://openreview.net/pdf?id=Z9L-Jde0iPx)
+[Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://openreview.net/pdf?id=Z9L-Jde0iPx) RSS 2022
 
-[You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration](https://www.researchgate.net/profile/Bowen-Wen/publication/358259887_You_Only_Demonstrate_Once_Category-Level_Manipulation_from_Single_Visual_Demonstration/links/62753457973bbb29cc67a93d/You-Only-Demonstrate-Once-Category-Level-Manipulation-from-Single-Visual-Demonstration.pdf)
+[You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration](https://www.researchgate.net/profile/Bowen-Wen/publication/358259887_You_Only_Demonstrate_Once_Category-Level_Manipulation_from_Single_Visual_Demonstration/links/62753457973bbb29cc67a93d/You-Only-Demonstrate-Once-Category-Level-Manipulation-from-Single-Visual-Demonstration.pdf) arxiv2022
 
 
 
