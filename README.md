@@ -13,6 +13,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/pdf?id=SYUEnQtK85o)  RSS2022 | [video](https://www.youtube.com/watch?v=oTnsZs7yOVc) 
 
+[Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations](https://openreview.net/pdf?id=bPOBIKaqLba) RSS 2022
+
 ### Visual Representation Learning
 
 [R3M: A Universal Visual Representation for Robot Manipulation ](https://arxiv.org/pdf/2203.12601.pdf) arXiv 2022 | [code](https://github.com/facebookresearch/r3m)
@@ -39,6 +41,14 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) RSS 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
 
+[Learning Periodic Tasks from Human Demonstrations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812402&casa_token=jd7QDSj6HtoAAAAA:VdNXiKamIsexSD_mmUDusYF14rvfrfgmhDP8sHSZO7Wom_GJykTvaOFhz0Xk39oVBLYhkw977w&tag=1)
+
+[Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://openreview.net/pdf?id=Z9L-Jde0iPx)
+
+[You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration](https://www.researchgate.net/profile/Bowen-Wen/publication/358259887_You_Only_Demonstrate_Once_Category-Level_Manipulation_from_Single_Visual_Demonstration/links/62753457973bbb29cc67a93d/You-Only-Demonstrate-Once-Category-Level-Manipulation-from-Single-Visual-Demonstration.pdf)
+
+
+
 ### Sub-goal Generator/Intention Understanding
 
 [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper/2019/file/8a146f1a3da4700cbf03cdc55e2daae6-Paper.pdf) NeurIPS 2019| [website](https://pathak22.github.io/hierarchical-imitation/) | [code](https://github.com/pathak22/hierarchical-imitation/)
@@ -56,3 +66,6 @@ A collection of papers, codes and resources of learning from video in robotics.
 [Imitation Learning Tutorial ICML 2018](https://www.youtube.com/watch?v=WjFdD7PDGw0)
 
 [Model-Based Visual Imitation Learning](https://www.youtube.com/watch?v=aiJp9GWdJnw) CVPR 2021 - Franziska Meier
+
+[Workshop on Learning from Diverse, Offline Data](https://www.youtube.com/watch?v=lHXp6j6YrY4&t=13s) RSS2022
+
