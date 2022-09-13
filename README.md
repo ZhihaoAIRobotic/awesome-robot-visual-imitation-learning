@@ -1,4 +1,4 @@
-# awesome-robot-learning-from-video[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-robot-imitation-learning-from-video[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of papers, codes and resources of learning from video in robotics.
 
 ## Papers
@@ -58,6 +58,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/pdf/1707.03374.pdf) ICML 2016 | [code](https://github.com/wyndwarrior/imitation_from_observation?utm_source=catalyzex.com)
 
 [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf) arxiv 2018 
+
+
 
 ## Talks
 
