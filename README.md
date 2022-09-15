@@ -39,23 +39,21 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Learning to Manipulate Tools by Aligning Simulation to Video Demonstration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612073&casa_token=20714ek6aaQAAAAA:F05cTWri23dQ1ijDqgFU-QOey6ZeDROrFNDtYsRudUE9JoXUPEb5_ljXlv7_7uXGAfM3zeb7lQ) RAL 2022
 
-[Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) RSS 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
-
 [Learning Periodic Tasks from Human Demonstrations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812402&casa_token=jd7QDSj6HtoAAAAA:VdNXiKamIsexSD_mmUDusYF14rvfrfgmhDP8sHSZO7Wom_GJykTvaOFhz0Xk39oVBLYhkw977w&tag=1) arxiv2021
 
 [Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://openreview.net/pdf?id=Z9L-Jde0iPx) RSS 2022
 
 [You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration](https://www.researchgate.net/profile/Bowen-Wen/publication/358259887_You_Only_Demonstrate_Once_Category-Level_Manipulation_from_Single_Visual_Demonstration/links/62753457973bbb29cc67a93d/You-Only-Demonstrate-Once-Category-Level-Manipulation-from-Single-Visual-Demonstration.pdf) arxiv2022
 
-
-
-### Sub-goal Generator/Intention Understanding
+### Image Translation
 
 [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper/2019/file/8a146f1a3da4700cbf03cdc55e2daae6-Paper.pdf) NeurIPS 2019| [website](https://pathak22.github.io/hierarchical-imitation/) | [code](https://github.com/pathak22/hierarchical-imitation/)
 
-### End to End
-
 [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/pdf/1707.03374.pdf) ICML 2016 | [code](https://github.com/wyndwarrior/imitation_from_observation?utm_source=catalyzex.com)
+
+[Learning by Watching: Physical Imitation of Manipulation Skills from Human Videos](https://arxiv.org/pdf/2101.07241.pdf) RSS 2021 | [website](https://www.pair.toronto.edu/lbw-kp/)
+
+### Meta Learning
 
 [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf) arxiv 2018 
 
