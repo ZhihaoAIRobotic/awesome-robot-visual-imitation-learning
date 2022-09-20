@@ -25,6 +25,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/pdf/2206.11795.pdf) arXiv 2022
 
+[BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) CORL 2022 | [website](https://sites.google.com/view/bc-z/home)
+
 ### Estimated Pose/Key Point
 
 [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://proceedings.mlr.press/v164/mandikal22a/mandikal22a.pdf) CORL 2021
