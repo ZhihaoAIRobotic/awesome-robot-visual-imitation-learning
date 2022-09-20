@@ -59,7 +59,7 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf) arxiv 2018 
 
-
+[One-shot imitation from observing humans via domain-adaptive meta-learning](https://arxiv.org/pdf/1802.01557.pdf) RSS 2018 
 
 ## Talks
 
