@@ -46,6 +46,9 @@ A collection of papers, codes and resources of learning from video in robotics.
 [Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://openreview.net/pdf?id=Z9L-Jde0iPx) RSS 2022
 
 [You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration](https://www.researchgate.net/profile/Bowen-Wen/publication/358259887_You_Only_Demonstrate_Once_Category-Level_Manipulation_from_Single_Visual_Demonstration/links/62753457973bbb29cc67a93d/You-Only-Demonstrate-Once-Category-Level-Manipulation-from-Single-Visual-Demonstration.pdf) arxiv2022
+[VideoDex: Learning Dexterity from Internet Videos](https://arxiv.org/pdf/2212.04498.pdf) arxiv2022
+
+[Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://arxiv.org/pdf/2202.10448.pdf) arxiv2022
 
 ### Image Translation
 
