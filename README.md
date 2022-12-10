@@ -52,6 +52,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube](https://arxiv.org/pdf/2202.10448.pdf) arxiv2022
 
+[Graph Inverse Reinforcement Learning from Diverse Videos](https://arxiv.org/pdf/2207.14299.pdf) arxiv2022
+
 ### Image Translation
 
 [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller](https://proceedings.neurips.cc/paper/2019/file/8a146f1a3da4700cbf03cdc55e2daae6-Paper.pdf) NeurIPS 2019| [website](https://pathak22.github.io/hierarchical-imitation/) | [code](https://github.com/pathak22/hierarchical-imitation/)
