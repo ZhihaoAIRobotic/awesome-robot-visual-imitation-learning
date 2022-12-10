@@ -27,6 +27,8 @@ A collection of papers, codes and resources of learning from video in robotics.
 
 [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) CORL 2022 | [website](https://sites.google.com/view/bc-z/home)
 
+[VIP: TOWARDS UNIVERSAL VISUAL REWARD AND REPRESENTATION VIA VALUE-IMPLICIT PRETRAINING](https://arxiv.org/pdf/2210.00030.pdf) arXiv 2022
+
 ### Estimated Pose/Key Point
 
 [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://proceedings.mlr.press/v164/mandikal22a/mandikal22a.pdf) CORL 2021
